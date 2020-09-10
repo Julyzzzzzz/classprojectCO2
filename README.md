@@ -1,7 +1,6 @@
-# Carbon Dioxide Emissions over 40 Years in the U.S.
-#### July Zhou
-#### Section AF
-#### CSE 163 Project
+## Class Project on analyzing data from a variety of sources to solve realistic problems from science, engineering, and business
+#### Carbon Dioxide Emissions over 40 Years in the U.S.
+#### Spring 20
 
 ## Get two data files online
 1. Get the population data [NST-EST2015-01.xlsx](https://web.archive.org/web/20160130223507/http:/www.census.gov:80/popest/data/state/totals/2015/index.html) 
